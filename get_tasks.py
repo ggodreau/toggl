@@ -38,7 +38,7 @@ def write_file(data):
       print('What the fuck did you just give me??')
       exit(0)
     exit(0)
-    
+
 
 def parse_args(input):
   if len(input) != 4:
