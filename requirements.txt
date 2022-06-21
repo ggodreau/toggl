@@ -9,7 +9,7 @@ idna==2.7
 mkl-fft==1.0.6
 mkl-random==1.0.1
 more-itertools==4.3.0
-numpy==1.15.3
+numpy==1.22.0
 pandas==0.23.4
 pluggy==0.8.0
 py==1.7.0
